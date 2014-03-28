@@ -20,7 +20,7 @@ import (
 	"strings"
 
 	"fmt"
-	"github.com/richardiux/gocommon/testing"
+	"github.com/joyent/gocommon/testing"
 	lm "github.com/joyent/gomanta/localservices/manta"
 	"github.com/joyent/gomanta/manta"
 )

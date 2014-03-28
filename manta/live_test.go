@@ -15,8 +15,8 @@ import (
 	"time"
 
 	"strings"
+	"github.com/joyent/gocommon/client"
 	"github.com/joyent/gosign/auth"
-	"github.com/richardiux/gocommon/client"
 	"github.com/richardiux/gomanta/manta"
 	gc "launchpad.net/gocheck"
 )

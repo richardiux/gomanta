@@ -20,9 +20,9 @@ import (
 
 	"github.com/juju/loggo"
 
-	"github.com/richardiux/gocommon/client"
-	"github.com/richardiux/gocommon/errors"
-	jh "github.com/richardiux/gocommon/http"
+	"github.com/joyent/gocommon/client"
+	"github.com/joyent/gocommon/errors"
+	jh "github.com/joyent/gocommon/http"
 )
 
 // Logger for this package

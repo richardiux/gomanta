@@ -18,7 +18,7 @@ import (
 
 	gc "launchpad.net/gocheck"
 
-	"github.com/joyent/gocommon/client"
+	"github.com/richardiux/gocommon/client"
 	localmanta "github.com/joyent/gomanta/localservices/manta"
 	"github.com/joyent/gomanta/manta"
 	"github.com/joyent/gosign/auth"

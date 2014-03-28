@@ -11,7 +11,7 @@ package manta_test
 
 import (
 	"flag"
-	"github.com/joyent/gocommon/jpc"
+	"github.com/richardiux/gocommon/jpc"
 	gc "launchpad.net/gocheck"
 	"testing"
 )

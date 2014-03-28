@@ -14,11 +14,11 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/joyent/gocommon/client"
-	"github.com/joyent/gomanta/manta"
-	"github.com/joyent/gosign/auth"
-	gc "launchpad.net/gocheck"
 	"strings"
+	"github.com/joyent/gosign/auth"
+	"github.com/richardiux/gocommon/client"
+	"github.com/richardiux/gomanta/manta"
+	gc "launchpad.net/gocheck"
 )
 
 func registerMantaTests(creds *auth.Credentials) {

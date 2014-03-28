@@ -33,7 +33,7 @@ const (
 	DefaultAPIVersion = "7.1"
 
 	// Manta API URL parts
-	apiStorage    = "stor"
+	apiStorage    = ""
 	apiJobs       = "jobs"
 	apiJobsLive   = "live"
 	apiJobsIn     = "in"
